@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460905798 source:c:\dimitris\4o eksamino\diktiakos programatimos\askisi 1\diktiakos_programatismos\askisi_1.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
